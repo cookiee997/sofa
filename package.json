@@ -1,0 +1,29 @@
+{
+  "name": "confession-bot",
+  "version": "1.0.0",
+  "description": "Confession-bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leanhtiennn/cfs-bot.git"
+  },
+  "author": "LAT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leanhtiennn/cfs-bot/issues"
+  },
+  "homepage": "https://github.com/leanhtiennn/cfs-bot",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.4.1",
+    "get-json": "^1.0.1",
+    "i": "^0.3.6",
+    "send": "^0.17.1",
+    "sent": "^3.0.0",
+    "ws": "^7.3.1"
+  }
+}
